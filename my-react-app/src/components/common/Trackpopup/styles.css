@@ -1,0 +1,36 @@
+/* Styles for Submit and Close buttons */
+.Trackpopup .submit-button,
+.Trackpopup .close-button {
+  border-radius: 2px;
+  background-color: #fd580b;
+  color: white;
+}
+
+.Trackpopup .submit-button:hover,
+.Trackpopup .close-button:hover {
+  background-color: #ff6e40;
+}
+
+/* Styles for Select transportation options */
+.Trackpopup .FormControl {
+  margin-top: 5px; /* Add margin-top */
+  margin-bottom: 10px; /* Add margin-bottom */
+}
+
+/* Styles for Select transportation options */
+.Trackpopup .InputLabel {
+  margin-top: 5px; /* Add margin-top */
+  margin-bottom: 10px; /* Add margin-bottom */
+}
+
+/* Styles for alert message */
+.Trackpopup .error-message {
+  margin-top: 5px; /* Add margin-top */
+  color: red;
+}
+
+/* Styles for modifying Select transportation box */
+.Trackpopup .Select-root {
+  width: 250px; /* Adjust width as needed */
+  margin-top: 5px; /* Add margin-top */
+}

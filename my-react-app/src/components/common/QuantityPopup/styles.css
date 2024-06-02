@@ -1,0 +1,43 @@
+/* Add this CSS to your existing styles.css file */
+
+/* Styles for increment and decrement buttons */
+.QuantityPopup .increment-button,
+.QuantityPopup .decrement-button {
+  max-width: 15px;
+  min-width: 15px;
+  border-radius: 2px;
+  background-color: #fd580b;
+  color: white;
+  margin-top: 10px;
+}
+
+.QuantityPopup .increment-button:hover,
+.QuantityPopup .decrement-button:hover {
+  background-color: #ff6e40;
+}
+
+/* Styles for quantity display */
+.QuantityPopup .quantity-display {
+  max-width: 20px;
+  min-width: 20px;
+  margin-top: 10px;
+}
+
+/* Styles for Submit and Close buttons */
+.QuantityPopup .submit-button,
+.QuantityPopup .close-button {
+  border-radius: 2px;
+  background-color: #fd580b;
+  color: white;
+}
+
+.QuantityPopup .submit-button:hover,
+.QuantityPopup .close-button:hover {
+  background-color: #ff6e40;
+}
+
+/* Styles for Select transportation options */
+.QuantityPopup .MuiMenu-paper {
+  display: flex;
+  flex-direction: column; /* Make options appear vertically */
+}

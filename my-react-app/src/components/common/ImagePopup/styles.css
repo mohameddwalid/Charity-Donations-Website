@@ -1,0 +1,24 @@
+.dialog .popup-image {
+    width: 50%; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+  }
+  
+  .dialog .image-container {
+    text-align: center; /* Center the image and text */
+  }
+  
+  .dialog .thank-you-text {
+    display: inline-block;
+    text-align: center; /* Center the text */
+  }
+  
+  .dialog .MuiDialogTitle-root,
+  .dialog .thank-you-text strong {
+    color: white; /* Set text color to white */
+  }
+  
+  .dialog .MuiDialog-paper.custom-dialog {
+    background-color: rgba(0, 0, 0, 0.7); /* Black background with 70% opacity */
+  }

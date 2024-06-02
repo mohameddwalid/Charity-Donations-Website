@@ -1,0 +1,49 @@
+.loc .close-button {
+  background-color: #fd580b; 
+  color: white;
+}
+
+.loc .close-button:hover {
+  background-color: #ff6e40;
+}
+
+.Details .close-button {
+  background-color: #fd580b; 
+  color: white;
+}
+
+
+.Details .close-button:hover {
+  background-color: #ff6e40;
+}
+
+
+.BloodCard .fulfill-button {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 1rem;
+  color: black;
+  border: 1px solid black;
+  font-size: 0.9rem;
+}
+
+.BloodCard  .fulfill-button:hover {
+  background-color: #fd580b;
+  color: white;
+  border: 2px solid #fd580b;
+}
+.BloodCard .details-button,
+.BloodCard .location-button {
+margin-bottom: 5px;
+border-radius: 1rem;
+color: black;
+border: 1px solid black;
+font-size: 0.9rem;
+}
+
+.BloodCard .details-button:hover,
+.BloodCard .location-button:hover {
+background-color: #fd580b;
+color: white;
+border: 2px solid #fd580b;
+}

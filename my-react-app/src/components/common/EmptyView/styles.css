@@ -1,0 +1,11 @@
+.emptyView-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.emptyView-wrap img {
+  max-width: 800px; /* Adjust the max-width to make the GIF bigger */
+  width: 100%;
+}

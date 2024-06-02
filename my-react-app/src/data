@@ -1,0 +1,107 @@
+// const [initialData, setInitialData] = useState([
+  //   {
+  //     id: 1,
+  //     category: "Clothes", // Selected category
+  //     type: "Half Sleeve Shirt", // Clothes Type
+  //     season: "Winter", // Season
+  //     gender: "M", // Gender
+  //     size: "XL", // Size
+  //     ageRange: "18+", // Age Range
+  //     material: "Cotton", // Material
+  //     quantity: "1",
+  //     donated: "1",
+  //     picture: shirt,
+  //   },
+  //   {
+  //     id: 2,
+  //     category: "Toys",
+  //     ToyCategory: "Cars", // Toy Category
+  //     gender: "M", // Gender
+  //     age: "12", // Age
+  //     picture: bmw,
+  //     quantity: "1",
+  //     donated: "1",
+  //     // Insert pic here
+  //   },
+  //   {
+  //     id: 3,
+  //     category: "Food",
+  //     type: "Baked", // Food Type
+  //     item: "Bread", // Food Item
+  //     quantity: 5,
+  //     picture: bread,
+  //     donated: "2",
+  //   },
+  //   {
+  //     id: 4,
+  //     category: "Medical",
+  //     type: "Medication", // Item Type (medication, device, equipment)
+  //     use: "Antacids", // Medical use or device use
+  //     name: "Maloox",
+  //     quantity: "2",
+  //     donated: "1",
+
+  //     picture: mal,
+  //   },
+  //   {
+  //     id: 5,
+  //     category: "School",
+  //     SchoolCategory: "Books",
+
+  //     title: "The Pragmatic Programmer", // Book Title (if Books)
+  //     author: "Dave Thomas", // Book Author (if Books)
+  //     language: "English", // Book Language (if Books)
+  //     edition: "20th Anniversary Edition", // Book Edition (if Books)
+  //     summary:
+  //       "The Pragmatic Programmer: From Journeyman to Master is a book about computer programming and software engineering, written by Andrew Hunt and David Thomas and published in October 1999.[1][2][3] It is used as a textbook in related university courses.[4] It was the first in a series of books under the label The Pragmatic Bookshelf. A second edition, The Pragmatic Programmer: Your Journey to Mastery was released in 2019 for the books 20th anniversary, with major revisions and new material which reflects new technology and other changes in the software engineering industry over the last twenty years . The book does not present a systematic theory, but rather a collection of tips to improve the development process in a pragmatic way. The main qualities of what the authors refer to as a pragmatic programmer are being an early adopter, to have fast adaptation, inquisitiveness and critical thinking, realism, and being a jack-of-all-trades.",
+
+  //     // Short Summary (if Books)
+  //     quantity: 1,
+  //     donated: "0",
+  //     // Quantity (if Books)
+  //     picture: book,
+  //   },
+  //   {
+  //     id: 6,
+  //     category: "Medical",
+  //     type: "Equipment", // Item Type (medication, device, equipment)
+  //     use: "For taking medicine", // Medical use or device use
+  //     name: "Syringe",
+  //     quantity: "2",
+  //     donated: "1",
+  //     picture: syr,
+  //   },
+  //   {
+  //     id: 7,
+  //     category: "Toys",
+  //     ToyCategory: "Sports", // Toy Category
+  //     gender: "M", // Gender
+  //     age: "All", // Age
+  //     picture: football,
+  //     donated: "0",
+  //     quantity: "2",
+  //     // Insert pic here
+  //   },
+  //   {
+  //     id: 8,
+  //     category: "Blood",
+  //     name: "Khaled",
+  //     type: "A+",
+  //     hospital: "Cleopatra",
+  //     area: "masr el gedida",
+  //     gov: "cairo",
+  //     address: "ard el golf, masr el gedida, cairo",
+  //     donated: "0",
+  //   },
+  //   {
+  //     id: 9,
+  //     category: "Session",
+  //     SchoolCategory: "Session",
+  //     subj: "Math",
+  //     area: "tagmo3",
+  //     gov: "cairo",
+  //     nStudents: "5",
+  //     gmLink: "googlemaps.com/tagmo3",
+  //     donated: "0",
+  //   },
+  // ]); // Initialize initialData with your data

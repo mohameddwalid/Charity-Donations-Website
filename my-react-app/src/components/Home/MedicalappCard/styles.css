@@ -1,0 +1,40 @@
+.Details .close-button {
+  background-color: #fd580b; 
+  color: white;
+}
+
+
+.Details .close-button:hover {
+  background-color: #ff6e40;
+}
+
+.MedicalappCard .fulfill-button {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 1rem;
+  color: black;
+  border: 1px solid black;
+  font-size: 0.9rem;
+}
+
+.MedicalappCard  .fulfill-button:hover {
+  background-color: #fd580b;
+  color: white;
+  border: 2px solid #fd580b;
+}
+
+
+.MedicalappCard .details-button {
+  margin-right: 5px;
+  margin-bottom: 5px;
+  border-radius: 1rem;
+  color: black;
+  border: 1px solid black;
+  font-size: 0.9rem;
+}
+
+.MedicalappCard  .details-button:hover {
+  background-color: #fd580b;
+  color: white;
+  border: 2px solid #fd580b;
+}
