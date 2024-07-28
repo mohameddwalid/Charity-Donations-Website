@@ -63,6 +63,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+To access the donor page sign in with :
+username: donor@gmail.com
+password : 1
+
+
+To access the donor page as a doctor sign in with :
+username: doctor@gmail.com
+password: 1
+
+
+To access the organization page sign in with :
+username: org@gmail.com
+password: 1
+
+
+
+To access the donor page as a teacher sign in with :
+username: teacher@gmail.com
+password: 1
+
+To access the admin page sign in with :
+username: admin@gmail.com
+password: 1
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
